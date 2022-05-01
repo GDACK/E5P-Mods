@@ -1,4 +1,4 @@
-# E5P-Mods
+# Ender 5 Plus Mods
 My Ender 5 Plus upgrades and mods
 
 This repository contains all the details of my Creality Ender 5+ upgrades and mods from stock to a fully enclosed, corexy, heated chamber, external part cooled, water-cooled 3d printer, capable of printing with high temperature engineering materials.
