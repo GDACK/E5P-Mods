@@ -7,4 +7,4 @@ The upgrades and mods comprise some quality of life as well as essential and req
 
 Please note that my upgrades and mods are work in progress, so not all the upgrades and mods have been completed yet and so these documents will be updated as I go.
 
-Please read "Mod List" for a list of the mods and to see if a particular mod has been completed yet.
+Please read "Mod List" for a list of the mods and to see if a particular mod has been completed yet or - alternatively - visit the wiki for a step by step walkthrough.
